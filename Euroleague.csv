@@ -53,9 +53,9 @@ Maccabi Tel Aviv,235,2016.1,NA,13
 Unics Kazan,230,2016.1,NA,14
 FC Barcelona,225,2016.1,NA,15
 Crvena Zvezda,221,2016.1,NA,16
-Khimki,0,2016.1,NA,17
-Unicaja Malaga,0,2016.1,NA,18
-Valencia Basket,0,2016.1,NA,19
+Khimki,NA,2016.1,NA,17
+Unicaja Malaga,NA,2016.1,NA,18
+Valencia Basket,NA,2016.1,NA,19
 Real Madrid,614,2016.2,307,1
 CSKA Moscow,613,2016.2,307,2
 Anadolu Efes,574,2016.2,287,3
@@ -72,9 +72,9 @@ Maccabi Tel Aviv,469,2016.2,235,13
 Unics Kazan,460,2016.2,230,14
 FC Barcelona,449,2016.2,225,15
 Crvena Zvezda,442,2016.2,221,16
-Khimki,0,2016.2,0,17
-Unicaja Malaga,0,2016.2,0,18
-Valencia Basket,0,2016.2,0,19
+Khimki,NA,2016.2,NA,17
+Unicaja Malaga,NA,2016.2,NA,18
+Valencia Basket,NA,2016.2,NA,19
 Real Madrid,921,2016.3,614,1
 CSKA Moscow,919,2016.3,613,2
 Anadolu Efes,861,2016.3,574,3
@@ -91,9 +91,9 @@ Maccabi Tel Aviv,703,2016.3,469,13
 Unics Kazan,690,2016.3,460,14
 FC Barcelona,673,2016.3,449,15
 Crvena Zvezda,663,2016.3,442,16
-Khimki,0,2016.3,0,17
-Unicaja Malaga,0,2016.3,0,18
-Valencia Basket,0,2016.3,0,19
+Khimki,NA,2016.3,NA,17
+Unicaja Malaga,NA,2016.3,NA,18
+Valencia Basket,NA,2016.3,NA,19
 Real Madrid,1228,2016.4,921,1
 CSKA Moscow,1226,2016.4,919,2
 Anadolu Efes,1148,2016.4,861,3
@@ -110,9 +110,9 @@ Maccabi Tel Aviv,937,2016.4,703,13
 Unics Kazan,920,2016.4,690,14
 FC Barcelona,897,2016.4,673,15
 Crvena Zvezda,884,2016.4,663,16
-Khimki,0,2016.4,0,17
-Unicaja Malaga,0,2016.4,0,18
-Valencia Basket,0,2016.4,0,19
+Khimki,NA,2016.4,NA,17
+Unicaja Malaga,NA,2016.4,NA,18
+Valencia Basket,NA,2016.4,NA,19
 Real Madrid,1535,2016.5,1228,1
 CSKA Moscow,1532,2016.5,1226,2
 Anadolu Efes,1435,2016.5,1148,3
@@ -129,9 +129,9 @@ Maccabi Tel Aviv,1171,2016.5,937,13
 Unics Kazan,1149,2016.5,920,14
 FC Barcelona,1121,2016.5,897,15
 Crvena Zvezda,1105,2016.5,884,16
-Khimki,0,2016.5,0,17
-Unicaja Malaga,0,2016.5,0,18
-Valencia Basket,0,2016.5,0,19
+Khimki,NA,2016.5,NA,17
+Unicaja Malaga,NA,2016.5,NA,18
+Valencia Basket,NA,2016.5,NA,19
 Real Madrid,1842,2016.6,1535,1
 CSKA Moscow,1838,2016.6,1532,2
 Anadolu Efes,1722,2016.6,1435,3
@@ -148,9 +148,9 @@ Maccabi Tel Aviv,1405,2016.6,1171,13
 Unics Kazan,1379,2016.6,1149,14
 FC Barcelona,1345,2016.6,1121,15
 Crvena Zvezda,1326,2016.6,1105,16
-Khimki,0,2016.6,0,17
-Unicaja Malaga,0,2016.6,0,18
-Valencia Basket,0,2016.6,0,19
+Khimki,NA,2016.6,NA,17
+Unicaja Malaga,NA,2016.6,NA,18
+Valencia Basket,NA,2016.6,NA,19
 Real Madrid,2149,2016.7,1842,1
 CSKA Moscow,2145,2016.7,1838,2
 Anadolu Efes,2009,2016.7,1722,3
@@ -167,9 +167,9 @@ Maccabi Tel Aviv,1639,2016.7,1405,13
 Unics Kazan,1609,2016.7,1379,14
 FC Barcelona,1569,2016.7,1345,15
 Crvena Zvezda,1547,2016.7,1326,16
-Khimki,0,2016.7,0,17
-Unicaja Malaga,0,2016.7,0,18
-Valencia Basket,0,2016.7,0,19
+Khimki,NA,2016.7,NA,17
+Unicaja Malaga,NA,2016.7,NA,18
+Valencia Basket,NA,2016.7,NA,19
 Real Madrid,2456,2016.8,1842,1
 CSKA Moscow,2451,2016.8,1838,2
 Anadolu Efes,2296,2016.8,1722,3
@@ -186,9 +186,9 @@ Maccabi Tel Aviv,1873,2016.8,1405,13
 Unics Kazan,1839,2016.8,1379,14
 FC Barcelona,1793,2016.8,1345,15
 Crvena Zvezda,1768,2016.8,1326,16
-Khimki,0,2016.8,0,17
-Unicaja Malaga,0,2016.8,0,18
-Valencia Basket,0,2016.8,0,19
+Khimki,NA,2016.8,NA,17
+Unicaja Malaga,NA,2016.8,NA,18
+Valencia Basket,NA,2016.8,NA,19
 Real Madrid,2763,2016.9,2456,1
 CSKA Moscow,2757,2016.9,2451,2
 Anadolu Efes,2583,2016.9,2296,3
@@ -205,9 +205,9 @@ Maccabi Tel Aviv,2107,2016.9,1873,13
 Unics Kazan,2069,2016.9,1839,14
 FC Barcelona,2017,2016.9,1793,15
 Crvena Zvezda,1989,2016.9,1768,16
-Khimki,0,2016.9,0,17
-Unicaja Malaga,0,2016.9,0,18
-Valencia Basket,0,2016.9,0,19
+Khimki,NA,2016.9,NA,17
+Unicaja Malaga,NA,2016.9,NA,18
+Valencia Basket,NA,2016.9,NA,19
 Real Madrid,3070,2017,2763,1
 CSKA Moscow,3063,2017,2757,2
 Anadolu Efes,2870,2017,2583,3
@@ -224,6 +224,6 @@ Maccabi Tel Aviv,2341,2017,2107,13
 Unics Kazan,2298,2017,2069,14
 FC Barcelona,2241,2017,2017,15
 Crvena Zvezda,2209,2017,1989,16
-Khimki,0,2017,0,17
-Unicaja Malaga,0,2017,0,18
-Valencia Basket,0,2017,0,19
+Khimki,NA,2017,NA,17
+Unicaja Malaga,NA,2017,NA,18
+Valencia Basket,NA,2017,NA,19
