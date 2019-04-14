@@ -3,10 +3,10 @@ Fenerbahçe Beko,1,1,0,1,42 96 61
 Olympiacos Piraeus,1,1,0,2,346 100 39
 CSKA Moscow,1,1,0,3,374 100 42
 Anadolu Efes,1,1,0,4,216 100 32
-Real Madrid,1,1,0,5,288 48 36
+Real Madrid Baloncesto,1,1,0,5,288 48 36
 AX Armani Exchange Olimpia Milan,1,1,0,6,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,1,1,0,7,343 100 43
-Panathinaikkos OPAP Athens,1,1,0,8,149 100 24
+Panathinaikos OPAP Athens,1,1,0,8,149 100 24
 Maccabi FOX Tel Aviv,0,1,0,9,42 96 61
 Zalgris Kaunas,0,1,0,10,149 100 24
 Buducnost VOLI Podgorica,0,1,0,11,216 100 32
@@ -19,10 +19,10 @@ Fenerbahçe Beko,2,2,1,1,42 96 61
 Olympiacos Piraeus,2,2,1,2,346 100 39
 CSKA Moscow,2,2,1,3,374 100 42
 Anadolu Efes,1,2,1,6,216 100 32
-Real Madrid,2,2,1,4,288 48 36
+Real Madrid Baloncesto,2,2,1,4,288 48 36
 AX Armani Exchange Olimpia Milan,1,2,1,7,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,1,2,1,9,343 100 43
-Panathinaikkos OPAP Athens,1,2,1,8,149 100 24
+Panathinaikos OPAP Athens,1,2,1,8,149 100 24
 Maccabi FOX Tel Aviv,1,2,0,13,42 96 61
 Zalgris Kaunas,1,2,0,5,149 100 24
 Buducnost VOLI Podgorica,0,2,0,14,216 100 32
@@ -35,10 +35,10 @@ Fenerbahçe Beko,3,3,2,2,42 96 61
 Olympiacos Piraeus,2,3,2,7,346 100 39
 CSKA Moscow,3,3,2,3,374 100 42
 Anadolu Efes,2,3,1,6,216 100 32
-Real Madrid,3,3,2,1,288 48 36
+Real Madrid Baloncesto,3,3,2,1,288 48 36
 AX Armani Exchange Olimpia Milan,2,3,1,4,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,1,3,1,12,343 100 43
-Panathinaikkos OPAP Athens,2,3,1,5,149 100 24
+Panathinaikos OPAP Athens,2,3,1,5,149 100 24
 Maccabi FOX Tel Aviv,1,3,1,8,42 96 61
 Zalgris Kaunas,1,3,1,9,149 100 24
 Buducnost VOLI Podgorica,0,3,0,15,216 100 32
@@ -51,10 +51,10 @@ Fenerbahçe Beko,3,4,3,3,42 96 61
 Olympiacos Piraeus,3,4,2,6,346 100 39
 CSKA Moscow,4,4,3,2,374 100 42
 Anadolu Efes,3,4,2,5,216 100 32
-Real Madrid,4,4,3,1,288 48 36
+Real Madrid Baloncesto,4,4,3,1,288 48 36
 AX Armani Exchange Olimpia Milan,3,4,2,4,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,1,4,1,13,343 100 43
-Panathinaikkos OPAP Athens,2,4,2,7,149 100 24
+Panathinaikos OPAP Athens,2,4,2,7,149 100 24
 Maccabi FOX Tel Aviv,1,4,1,11,42 96 61
 Zalgris Kaunas,2,4,1,8,149 100 24
 Buducnost VOLI Podgorica,0,4,0,16,216 100 32
@@ -67,10 +67,10 @@ Fenerbahçe Beko,4,5,3,3,42 96 61
 Olympiacos Piraeus,3,5,3,8,346 100 39
 CSKA Moscow,5,5,4,2,374 100 42
 Anadolu Efes,3,5,3,7,216 100 32
-Real Madrid,5,5,4,1,288 48 36
+Real Madrid Baloncesto,5,5,4,1,288 48 36
 AX Armani Exchange Olimpia Milan,4,5,3,4,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,2,5,1,9,343 100 43
-Panathinaikkos OPAP Athens,3,5,2,5,149 100 24
+Panathinaikos OPAP Athens,3,5,2,5,149 100 24
 Maccabi FOX Tel Aviv,1,5,1,13,42 96 61
 Zalgris Kaunas,2,5,2,10,149 100 24
 Buducnost VOLI Podgorica,0,5,0,16,216 100 32
@@ -83,10 +83,10 @@ Fenerbahçe Beko,5,6,4,3,42 96 61
 Olympiacos Piraeus,3,6,3,10,346 100 39
 CSKA Moscow,6,6,5,2,374 100 42
 Anadolu Efes,4,6,3,7,216 100 32
-Real Madrid,6,6,5,1,288 48 36
+Real Madrid Baloncesto,6,6,5,1,288 48 36
 AX Armani Exchange Olimpia Milan,4,6,4,5,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,2,6,2,11,343 100 43
-Panathinaikkos OPAP Athens,4,6,3,4,149 100 24
+Panathinaikos OPAP Athens,4,6,3,4,149 100 24
 Maccabi FOX Tel Aviv,1,6,1,13,42 96 61
 Zalgris Kaunas,3,6,2,9,149 100 24
 Buducnost VOLI Podgorica,0,6,0,16,216 100 32
@@ -99,10 +99,10 @@ Fenerbahçe Beko,6,7,5,3,42 96 61
 Olympiacos Piraeus,3,7,3,10,346 100 39
 CSKA Moscow,7,7,6,2,374 100 42
 Anadolu Efes,5,7,4,5,216 100 32
-Real Madrid,7,7,6,1,288 48 36
+Real Madrid Baloncesto,7,7,6,1,288 48 36
 AX Armani Exchange Olimpia Milan,5,7,4,4,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,2,7,2,11,343 100 43
-Panathinaikkos OPAP Athens,4,7,4,7,149 100 24
+Panathinaikos OPAP Athens,4,7,4,7,149 100 24
 Maccabi FOX Tel Aviv,1,7,1,14,42 96 61
 Zalgris Kaunas,3,7,3,9,149 100 24
 Buducnost VOLI Podgorica,1,7,0,15,216 100 32
@@ -115,10 +115,10 @@ Fenerbahçe Beko,7,8,6,3,42 96 61
 Olympiacos Piraeus,4,8,3,8,346 100 39
 CSKA Moscow,8,8,7,2,374 100 42
 Anadolu Efes,6,8,5,4,216 100 32
-Real Madrid,8,8,7,1,288 48 36
+Real Madrid Baloncesto,8,8,7,1,288 48 36
 AX Armani Exchange Olimpia Milan,6,8,5,5,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,2,8,2,12,343 100 43
-Panathinaikkos OPAP Athens,5,8,4,6,149 100 24
+Panathinaikos OPAP Athens,5,8,4,6,149 100 24
 Maccabi FOX Tel Aviv,1,8,1,14,42 96 61
 Zalgris Kaunas,3,8,3,9,149 100 24
 Buducnost VOLI Podgorica,1,8,1,15,216 100 32
@@ -131,10 +131,10 @@ Fenerbahçe Beko,8,9,7,2,42 96 61
 Olympiacos Piraeus,5,9,4,8,346 100 39
 CSKA Moscow,8,9,8,3,374 100 42
 Anadolu Efes,7,9,6,4,216 100 32
-Real Madrid,8,9,8,1,288 48 36
+Real Madrid Baloncesto,8,9,8,1,288 48 36
 AX Armani Exchange Olimpia Milan,6,9,6,5,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,3,9,2,11,343 100 43
-Panathinaikkos OPAP Athens,5,9,5,7,149 100 24
+Panathinaikos OPAP Athens,5,9,5,7,149 100 24
 Maccabi FOX Tel Aviv,1,9,1,15,42 96 61
 Zalgris Kaunas,3,9,3,10,149 100 24
 Buducnost VOLI Podgorica,2,9,1,13,216 100 32
@@ -147,10 +147,10 @@ Fenerbahçe Beko,9,10,8,1,42 96 61
 Olympiacos Piraeus,6,10,5,5,346 100 39
 CSKA Moscow,9,10,8,2,374 100 42
 Anadolu Efes,8,10,7,4,216 100 32
-Real Madrid,8,10,8,3,288 48 36
+Real Madrid Baloncesto,8,10,8,3,288 48 36
 AX Armani Exchange Olimpia Milan,6,10,6,6,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,3,10,3,12,343 100 43
-Panathinaikkos OPAP Athens,5,10,5,8,149 100 24
+Panathinaikos OPAP Athens,5,10,5,8,149 100 24
 Maccabi FOX Tel Aviv,2,10,1,14,42 96 61
 Zalgris Kaunas,4,10,3,9,149 100 24
 Buducnost VOLI Podgorica,2,10,2,15,216 100 32
@@ -163,10 +163,10 @@ Fenerbahçe Beko,10,11,9,1,42 96 61
 Olympiacos Piraeus,6,11,6,5,346 100 39
 CSKA Moscow,9,11,9,3,374 100 42
 Anadolu Efes,8,11,8,4,216 100 32
-Real Madrid,9,11,8,2,288 48 36
+Real Madrid Baloncesto,9,11,8,2,288 48 36
 AX Armani Exchange Olimpia Milan,6,11,6,6,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,4,11,3,11,343 100 43
-Panathinaikkos OPAP Athens,5,11,5,8,149 100 24
+Panathinaikos OPAP Athens,5,11,5,8,149 100 24
 Maccabi FOX Tel Aviv,3,11,2,14,42 96 61
 Zalgris Kaunas,5,11,4,9,149 100 24
 Buducnost VOLI Podgorica,3,11,2,15,216 100 32
@@ -179,10 +179,10 @@ Fenerbahçe Beko,11,12,10,1,42 96 61
 Olympiacos Piraeus,7,12,6,5,346 100 39
 CSKA Moscow,10,12,9,3,374 100 42
 Anadolu Efes,8,12,8,4,216 100 32
-Real Madrid,10,12,9,2,288 48 36
+Real Madrid Baloncesto,10,12,9,2,288 48 36
 AX Armani Exchange Olimpia Milan,6,12,6,7,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,5,12,4,11,343 100 43
-Panathinaikkos OPAP Athens,6,12,5,6,149 100 24
+Panathinaikos OPAP Athens,6,12,5,6,149 100 24
 Maccabi FOX Tel Aviv,3,12,3,14,42 96 61
 Zalgris Kaunas,5,12,5,10,149 100 24
 Buducnost VOLI Podgorica,3,12,3,15,216 100 32
@@ -195,10 +195,10 @@ Fenerbahçe Beko,12,13,11,1,42 96 61
 Olympiacos Piraeus,8,13,7,5,346 100 39
 CSKA Moscow,10,13,10,3,374 100 42
 Anadolu Efes,9,13,8,4,216 100 32
-Real Madrid,11,13,10,2,288 48 36
+Real Madrid Baloncesto,11,13,10,2,288 48 36
 AX Armani Exchange Olimpia Milan,6,13,6,8,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,6,13,5,9,343 100 43
-Panathinaikkos OPAP Athens,6,13,6,10,149 100 24
+Panathinaikos OPAP Athens,6,13,6,10,149 100 24
 Maccabi FOX Tel Aviv,4,13,3,13,42 96 61
 Zalgris Kaunas,6,13,5,7,149 100 24
 Buducnost VOLI Podgorica,3,13,3,15,216 100 32
@@ -211,10 +211,10 @@ Fenerbahçe Beko,13,14,12,1,42 96 61
 Olympiacos Piraeus,9,14,8,5,346 100 39
 CSKA Moscow,11,14,10,3,374 100 42
 Anadolu Efes,9,14,9,4,216 100 32
-Real Madrid,12,14,11,2,288 48 36
+Real Madrid Baloncesto,12,14,11,2,288 48 36
 AX Armani Exchange Olimpia Milan,7,14,6,7,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,6,14,6,10,343 100 43
-Panathinaikkos OPAP Athens,6,14,6,11,149 100 24
+Panathinaikos OPAP Athens,6,14,6,11,149 100 24
 Maccabi FOX Tel Aviv,4,14,4,14,42 96 61
 Zalgris Kaunas,6,14,6,7,149 100 24
 Buducnost VOLI Podgorica,3,14,3,15,216 100 32
@@ -227,10 +227,10 @@ Fenerbahçe Beko,14,15,13,1,42 96 61
 Olympiacos Piraeus,9,15,9,5,346 100 39
 CSKA Moscow,11,15,11,3,374 100 42
 Anadolu Efes,9,15,9,4,216 100 32
-Real Madrid,12,15,12,2,288 48 36
+Real Madrid Baloncesto,12,15,12,2,288 48 36
 AX Armani Exchange Olimpia Milan,7,15,7,9,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,7,15,6,10,343 100 43
-Panathinaikkos OPAP Athens,7,15,6,11,149 100 24
+Panathinaikos OPAP Athens,7,15,6,11,149 100 24
 Maccabi FOX Tel Aviv,5,15,4,13,42 96 61
 Zalgris Kaunas,7,15,6,8,149 100 24
 Buducnost VOLI Podgorica,3,15,3,15,216 100 32
@@ -243,10 +243,10 @@ Fenerbahçe Beko,15,16,14,1,42 96 61
 Olympiacos Piraeus,10,16,9,5,346 100 39
 CSKA Moscow,12,16,11,3,374 100 42
 Anadolu Efes,10,16,9,4,216 100 32
-Real Madrid,13,16,12,2,288 48 36
+Real Madrid Baloncesto,13,16,12,2,288 48 36
 AX Armani Exchange Olimpia Milan,8,16,7,7,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,7,16,7,10,343 100 43
-Panathinaikkos OPAP Athens,7,16,7,11,149 100 24
+Panathinaikos OPAP Athens,7,16,7,11,149 100 24
 Maccabi FOX Tel Aviv,5,16,5,14,42 96 61
 Zalgris Kaunas,7,16,7,9,149 100 24
 Buducnost VOLI Podgorica,3,16,3,15,216 100 32
@@ -259,10 +259,10 @@ Fenerbahçe Beko,15,17,15,1,42 96 61
 Olympiacos Piraeus,11,17,10,5,346 100 39
 CSKA Moscow,13,17,12,3,374 100 42
 Anadolu Efes,11,17,10,4,216 100 32
-Real Madrid,14,17,13,2,288 48 36
+Real Madrid Baloncesto,14,17,13,2,288 48 36
 AX Armani Exchange Olimpia Milan,8,17,8,7,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,7,17,7,10,343 100 43
-Panathinaikkos OPAP Athens,8,17,7,8,149 100 24
+Panathinaikos OPAP Athens,8,17,7,8,149 100 24
 Maccabi FOX Tel Aviv,6,17,5,13,42 96 61
 Zalgris Kaunas,7,17,7,11,149 100 24
 Buducnost VOLI Podgorica,3,17,3,15,216 100 32
@@ -275,10 +275,10 @@ Fenerbahçe Beko,16,18,15,1,42 96 61
 Olympiacos Piraeus,11,18,11,5,346 100 39
 CSKA Moscow,13,18,13,3,374 100 42
 Anadolu Efes,12,18,11,4,216 100 32
-Real Madrid,15,18,14,2,288 48 36
+Real Madrid Baloncesto,15,18,14,2,288 48 36
 AX Armani Exchange Olimpia Milan,8,18,8,9,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,8,18,7,8,343 100 43
-Panathinaikkos OPAP Athens,8,18,8,10,149 100 24
+Panathinaikos OPAP Athens,8,18,8,10,149 100 24
 Maccabi FOX Tel Aviv,7,18,6,11,42 96 61
 Zalgris Kaunas,7,18,7,13,149 100 24
 Buducnost VOLI Podgorica,4,18,3,15,216 100 32
@@ -291,10 +291,10 @@ Fenerbahçe Beko,17,19,16,1,42 96 61
 Olympiacos Piraeus,12,19,11,5,346 100 39
 CSKA Moscow,14,19,13,3,374 100 42
 Anadolu Efes,13,19,12,4,216 100 32
-Real Madrid,15,19,15,2,288 48 36
+Real Madrid Baloncesto,15,19,15,2,288 48 36
 AX Armani Exchange Olimpia Milan,8,19,8,9,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,9,19,8,7,343 100 43
-Panathinaikkos OPAP Athens,8,19,8,12,149 100 24
+Panathinaikos OPAP Athens,8,19,8,12,149 100 24
 Maccabi FOX Tel Aviv,8,19,7,10,42 96 61
 Zalgris Kaunas,8,19,7,11,149 100 24
 Buducnost VOLI Podgorica,5,19,4,15,216 100 32
@@ -307,10 +307,10 @@ Fenerbahçe Beko,18,20,17,1,42 96 61
 Olympiacos Piraeus,12,20,12,5,346 100 39
 CSKA Moscow,15,20,14,3,374 100 42
 Anadolu Efes,13,20,13,4,216 100 32
-Real Madrid,16,20,15,2,288 48 36
+Real Madrid Baloncesto,16,20,15,2,288 48 36
 AX Armani Exchange Olimpia Milan,9,20,8,8,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,9,20,9,9,343 100 43
-Panathinaikkos OPAP Athens,8,20,8,12,149 100 24
+Panathinaikos OPAP Athens,8,20,8,12,149 100 24
 Maccabi FOX Tel Aviv,9,20,8,10,42 96 61
 Zalgris Kaunas,8,20,8,11,149 100 24
 Buducnost VOLI Podgorica,6,20,5,15,216 100 32
@@ -323,10 +323,10 @@ Fenerbahçe Beko,18,21,18,1,42 96 61
 Olympiacos Piraeus,12,21,12,6,346 100 39
 CSKA Moscow,16,21,15,3,374 100 42
 Anadolu Efes,13,21,13,4,216 100 32
-Real Madrid,17,21,16,2,288 48 36
+Real Madrid Baloncesto,17,21,16,2,288 48 36
 AX Armani Exchange Olimpia Milan,10,21,9,9,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,10,21,9,8,343 100 43
-Panathinaikkos OPAP Athens,9,21,8,11,149 100 24
+Panathinaikos OPAP Athens,9,21,8,11,149 100 24
 Maccabi FOX Tel Aviv,9,21,9,10,42 96 61
 Zalgris Kaunas,8,21,8,13,149 100 24
 Buducnost VOLI Podgorica,6,21,6,15,216 100 32
@@ -339,10 +339,10 @@ Fenerbahçe Beko,19,22,18,1,42 96 61
 Olympiacos Piraeus,12,22,12,6,346 100 39
 CSKA Moscow,17,22,16,2,374 100 42
 Anadolu Efes,14,22,13,4,216 100 32
-Real Madrid,17,22,17,3,288 48 36
+Real Madrid Baloncesto,17,22,17,3,288 48 36
 AX Armani Exchange Olimpia Milan,11,22,10,9,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,11,22,10,8,343 100 43
-Panathinaikkos OPAP Athens,9,22,9,12,149 100 24
+Panathinaikos OPAP Athens,9,22,9,12,149 100 24
 Maccabi FOX Tel Aviv,10,22,9,10,42 96 61
 Zalgris Kaunas,8,22,8,13,149 100 24
 Buducnost VOLI Podgorica,6,22,6,15,216 100 32
@@ -355,10 +355,10 @@ Fenerbahçe Beko,20,23,19,1,42 96 61
 Olympiacos Piraeus,12,23,12,7,346 100 39
 CSKA Moscow,18,23,17,2,374 100 42
 Anadolu Efes,15,23,14,4,216 100 32
-Real Madrid,18,23,17,3,288 48 36
+Real Madrid Baloncesto,18,23,17,3,288 48 36
 AX Armani Exchange Olimpia Milan,12,23,11,6,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,11,23,11,8,343 100 43
-Panathinaikkos OPAP Athens,10,23,9,11,149 100 24
+Panathinaikos OPAP Athens,10,23,9,11,149 100 24
 Maccabi FOX Tel Aviv,10,23,10,10,42 96 61
 Zalgris Kaunas,9,23,8,13,149 100 24
 Buducnost VOLI Podgorica,6,23,6,15,216 100 32
@@ -371,10 +371,10 @@ Fenerbahçe Beko,21,24,20,1,42 96 61
 Olympiacos Piraeus,12,24,12,8,346 100 39
 CSKA Moscow,19,24,18,2,374 100 42
 Anadolu Efes,15,24,15,4,216 100 32
-Real Madrid,18,24,18,3,288 48 36
+Real Madrid Baloncesto,18,24,18,3,288 48 36
 AX Armani Exchange Olimpia Milan,13,24,12,6,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,12,24,11,7,343 100 43
-Panathinaikkos OPAP Athens,11,24,10,11,149 100 24
+Panathinaikos OPAP Athens,11,24,10,11,149 100 24
 Maccabi FOX Tel Aviv,11,24,10,10,42 96 61
 Zalgris Kaunas,9,24,9,13,149 100 24
 Buducnost VOLI Podgorica,6,24,6,15,216 100 32
@@ -387,10 +387,10 @@ Fenerbahçe Beko,21,25,21,1,42 96 61
 Olympiacos Piraeus,13,25,12,8,346 100 39
 CSKA Moscow,20,25,19,2,374 100 42
 Anadolu Efes,16,25,15,4,216 100 32
-Real Madrid,19,25,18,3,288 48 36
+Real Madrid Baloncesto,19,25,18,3,288 48 36
 AX Armani Exchange Olimpia Milan,13,25,13,7,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,13,25,12,6,343 100 43
-Panathinaikkos OPAP Athens,12,25,11,10,149 100 24
+Panathinaikos OPAP Athens,12,25,11,10,149 100 24
 Maccabi FOX Tel Aviv,12,25,11,9,42 96 61
 Zalgris Kaunas,10,25,9,12,149 100 24
 Buducnost VOLI Podgorica,6,25,6,15,216 100 32
@@ -403,13 +403,13 @@ Fenerbahçe Beko,22,26,21,1,42 96 61
 Olympiacos Piraeus,13,26,13,8,346 100 39
 CSKA Moscow,20,26,20,2,374 100 42
 Anadolu Efes,17,26,16,4,216 100 32
-Real Madrid,20,26,19,3,288 48 36
+Real Madrid Baloncesto,20,26,19,3,288 48 36
 AX Armani Exchange Olimpia Milan,14,26,13,7,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,14,26,13,6,343 100 43
-Panathinaikkos OPAP Athens,13,26,12,9,149 100 24
+Panathinaikos OPAP Athens,13,26,12,9,149 100 24
 Maccabi FOX Tel Aviv,12,26,12,10,42 96 61
 Zalgris Kaunas,11,26,10,12,149 100 24
-Buducnost VOLI Podgorica,15,26,6,6,216 100 32
+Buducnost VOLI Podgorica,6,26,6,15,216 100 32
 Darussafaka Tekfen,3,26,3,16,149 100 24
 FC Bayern Munich,12,26,12,11,374 100 42
 FC Barcelona Lassa,15,26,15,5,346 100 39
@@ -419,10 +419,10 @@ Fenerbahçe Beko,23,27,22,1,42 96 61
 Olympiacos Piraeus,14,27,13,8,346 100 39
 CSKA Moscow,21,27,20,2,374 100 42
 Anadolu Efes,17,27,17,4,216 100 32
-Real Madrid,21,27,20,3,288 48 36
+Real Madrid Baloncesto,21,27,20,3,288 48 36
 AX Armani Exchange Olimpia Milan,14,27,14,7,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,14,27,14,6,343 100 43
-Panathinaikkos OPAP Athens,14,27,13,9,149 100 24
+Panathinaikos OPAP Athens,14,27,13,9,149 100 24
 Maccabi FOX Tel Aviv,12,27,12,11,42 96 61
 Zalgris Kaunas,12,27,11,10,149 100 24
 Buducnost VOLI Podgorica,6,27,15,15,216 100 32
@@ -435,10 +435,10 @@ Fenerbahçe Beko,23,28,23,1,42 96 61
 Olympiacos Piraeus,14,28,14,9,346 100 39
 CSKA Moscow,22,28,21,2,374 100 42
 Anadolu Efes,18,28,17,4,216 100 32
-Real Madrid,21,28,21,3,288 48 36
+Real Madrid Baloncesto,21,28,21,3,288 48 36
 AX Armani Exchange Olimpia Milan,14,28,14,8,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,15,28,14,6,343 100 43
-Panathinaikkos OPAP Athens,15,28,14,7,149 100 24
+Panathinaikos OPAP Athens,15,28,14,7,149 100 24
 Maccabi FOX Tel Aviv,13,28,12,11,42 96 61
 Zalgris Kaunas,13,28,12,10,149 100 24
 Buducnost VOLI Podgorica,6,28,6,15,216 100 32
@@ -451,10 +451,10 @@ Fenerbahçe Beko,24,29,23,1,42 96 61
 Olympiacos Piraeus,14,29,14,11,346 100 39
 CSKA Moscow,23,29,22,2,374 100 42
 Anadolu Efes,19,29,18,4,216 100 32
-Real Madrid,22,29,21,3,288 48 36
+Real Madrid Baloncesto,22,29,21,3,288 48 36
 AX Armani Exchange Olimpia Milan,14,29,14,9,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,15,29,15,6,343 100 43
-Panathinaikkos OPAP Athens,15,29,15,7,149 100 24
+Panathinaikos OPAP Athens,15,29,15,7,149 100 24
 Maccabi FOX Tel Aviv,14,29,13,10,42 96 61
 Zalgris Kaunas,14,29,13,8,149 100 24
 Buducnost VOLI Podgorica,6,29,6,15,216 100 32
@@ -467,10 +467,10 @@ Fenerbahçe Beko,25,30,24,1,42 96 61
 Olympiacos Piraeus,15,30,14,9,346 100 39
 CSKA Moscow,24,30,23,2,374 100 42
 Anadolu Efes,20,30,19,4,216 100 32
-Real Madrid,22,30,22,3,288 48 36
+Real Madrid Baloncesto,22,30,22,3,288 48 36
 AX Armani Exchange Olimpia Milan,14,30,14,12,347 100 45
 KIROLBET Baskonia Vitoria-Gasteiz,15,30,15,7,343 100 43
-Panathinaikkos OPAP Athens,16,30,15,6,149 100 24
+Panathinaikos OPAP Athens,16,30,15,6,149 100 24
 Maccabi FOX Tel Aviv,14,30,14,10,42 96 61
 Zalgris Kaunas,15,30,14,8,149 100 24
 Buducnost VOLI Podgorica,6,30,6,15,216 100 32
